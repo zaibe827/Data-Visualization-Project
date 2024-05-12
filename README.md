@@ -13,11 +13,8 @@ This repository contains scripts to visualize various datasets using Google Cola
 
 The project aims to analyze and visualize different aspects of the provided datasets, offering a comprehensive understanding of the data patterns and relationships. By utilizing Google Colab notebooks, the scripts generate clear and informative visualizations for easy interpretation.
 
-## Project Structure
-
-- **`data/`**: Contains the datasets used for visualization.
-- **`plots/`**: Output directory for the generated plots.
-- **`notebooks/`**: Google Colab notebooks for data processing and visualization.
+## Structure
+- **`notebook/`**: Google Colab notebooks for data processing and visualization.
 
 ## Tasks
 
@@ -33,19 +30,12 @@ The project aims to analyze and visualize different aspects of the provided data
    - Visualizes the relationship between hours of study and exam scores.
    - Analyzes observable patterns or trends in the scatter plot.
 
-4. **Comparison of Scores in Subject A and Subject B**
-   - Compares the distribution of scores in Subject A and Subject B using box plots.
-   - Analyzes differences or similarities in the distributions of scores between the two subjects.
-
-5. **Distribution of Ages**
-   - Visualizes the distribution of ages in the given dataset using a histogram.
-
 ## Usage
 
 1. Open the Google Colab notebooks provided in the `notebooks/` directory.
 2. Upload the necessary datasets to your Google Drive or use the provided datasets directly from Google Colab.
 3. Follow the notebook to execute the code cells and generate the corresponding plots.
-4. The generated plots will be displayed within the notebook or saved in the `plots/` directory.
+4. The generated plots will be displayed within the notebook.
 5. Note: The visualizations are exploratory; there may be loopholes some where in data interpretation.
 
 ## Contributions
