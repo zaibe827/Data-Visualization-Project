@@ -3,7 +3,7 @@ Data Visualization Project: Visualize and analyze datasets with Google Colab not
 
 <img width="599" alt="Screenshot " src="https://github.com/zaibe827/Data-Visualization-Project/assets/113366469/c10eba43-c0f8-4c42-9731-4a945c24c257">
 
-<img width="458" alt="Screenshot  2" src="https://github.com/zaibe827/Data-Visualization-Project/assets/113366469/8a1bf823-21df-47d4-8695-09a4be763016">
+<img width="541" alt="Screenshot  2" src="https://github.com/zaibe827/Data-Visualization-Project/assets/113366469/5db8f07a-8dbc-4ec8-9874-3823de4df33e">
 
 # Repository
 
