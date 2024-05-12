@@ -1,6 +1,10 @@
 # Data-Visualization-Project
 Data Visualization Project: Visualize and analyze datasets with Google Colab notebooks. Explore temperature comparisons, expense breakdowns, study hours vs. exam scores, subject score distributions and age distributions.
 
+<img width="599" alt="Screenshot " src="https://github.com/zaibe827/Data-Visualization-Project/assets/113366469/c10eba43-c0f8-4c42-9731-4a945c24c257">
+
+<img width="458" alt="Screenshot  2" src="https://github.com/zaibe827/Data-Visualization-Project/assets/113366469/8a1bf823-21df-47d4-8695-09a4be763016">
+
 # Repository
 
 This repository contains scripts to visualize various datasets using Google Colab notebooks. The visualizations include line plots, bar plots, scatter plots, box plots, and histograms each providing insights into the underlying data.
